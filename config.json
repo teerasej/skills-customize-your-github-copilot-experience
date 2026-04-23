@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "mcp-server-fastapi",
+      "title": "Build an MCP Server with FastAPI",
+      "description": "Create a basic MCP server using FastAPI and implement a simple tool handler.",
+      "path": "assignments/mcp-server-fastapi",
+      "dueDate": "2026-04-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
